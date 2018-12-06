@@ -1,4 +1,4 @@
-# Falppy Bird Clone with Phaser 3 JS
+# Flappy Bird Clone with Phaser 3 JS
 
 This is a clone of the "classic" mobile game [Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird).
 
