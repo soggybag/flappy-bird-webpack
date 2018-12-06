@@ -6,7 +6,7 @@ I built this starting from the tutorial [here](http://www.lessmilk.com/tutorial/
 
 ![Flappy.gif](flappy.gif)
 
-## Phaser Resources 
+## Phaser 3 Resources 
 
 - The [Phaser 3 Docs](https://photonstorm.github.io/phaser3-docs/)
 - The [Phaser 3 Labs](https://labs.phaser.io)
